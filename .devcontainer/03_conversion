@@ -1,0 +1,9 @@
+let number= "33"
+
+console.log(typeof number);
+console.log(typeof (number));
+ 
+let valueNum =Number(number);
+let valueNum2 =Boolean(number);
+
+console.log(typeof (valueNum2));
